@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "home": "Home",
+    "secretDonation": "Gupt-Dan",
+    "prasadamArrangement": "Prasadam Vyavastha",
+    "briefIntroduction": "Introduction",
+    "helpCenter": "Help Center",
+    "faq": "FAQ",
+    "cowSevakLogin": "Gau-Sevak Login",
+    "registration": "Registration"
+  },
+  "mantra": {
+    "paraOne": "Charity Worth 10 times at Home, 100 times at Gau-Shala,",
+    "paratwo": "1000 time at Teerth, Infinite at Shivling"
+  },
+ "introduction": {
+    "heading": "Introduction",
+    "paraOne": "“Shri Radheshyam Gaushala Samiti” is a Non-Profit regd. Society & dedicated to the Welfare of Cows. We  belief, Simply Providing insufficient Shelter & Food is not enough to fulfill Human Responsibility.",
+    "paraTwo": "Cows are sacred beings, and their service is the duty of mankind. The core mission of “SRSGS” is to create a system where human self-interest aligns with cow welfare, benefiting both.",
+    "paraThree": "To improve the living standard of cows, the SRSGS is actively implementing various Welfare Programs. Our goal is that, instead of just waiting for their DEATH in shelter, cows should Enjoy Rest of Life and Bless whole Humanity.",
+    "paraFour": ""
+  },
+
+  "mainCharacteristics": {
+    "heading": "Key Features:",
+    "pointone": "SRSGS the Only Gau-Shala in the world, Who is Offering 10,000 Time to all by accepting just ₹251/- of Donation.",
+    "pointtwo": "We have a special Samriddh Gau-Shala Scheme for all other Economically Weak Cow Shelters",
+    "pointthree": "We have a Unique Expenses Kharch Hamara Scheme for Economically Weak Gau-Palak.",
+    "pointfour": "We Ensure Transparency and Accountability by not accepting Cash Donations.",
+    "conclusion": "These four services make us Distinct from all other Gau-Shalas in the World."
+  },
+  "prasadamArrangement": {
+    "descriptionone": "The Society have Two Types of Donation",
+    "descriptiontwo": "to Facilitate its Organized Management & Operations",
+
+    "titleone": "Anonymous Donation",
+    "descriptionImage1": "The Gaushala has made arrangements for Anonymous Donation for Financially Strong Individuals. Under this arrangement, Cow Lovers can donate online as per their wish and contribute to this Noble Cause of Gau-Seva. To do this, donors can click on the 'रRegistration' Button & provide their details to the Society voluntarily. They will receive an Online Payment Receipt for their donation. There is no obligation to provide personal details.",
+    "titletwo": "Prasadam Arrangement",
+
+    "descriptionImage2": "Under this Arrangement, the Society receives a Predetermined Donation Amount of ₹251/- from donar. To Donate under this arrangement, you need to click on the Register Button & Register using your Mobile Number. Immediately after registration, you have to Donate & will receive a Payment Receipt containing your Gau-Sevak Id and Password for login."
+  },
+  "PrasadamarrangementDetails": {
+    "descriptionone": "Prasadam Arrangement",
+    "detailsparaOne": "Under this Arrangement, the donor donates a Predetermined amount of ₹251/-. After donation, The Society registers the donor as a Gau-Sevak and provides a Unique Gau-Sevak Id. The Gau-Sevak provides their complete Details, KYC, Nomination, etc. to the Society",
+    "detailsparaTwo": "The Society gives ₹5/- as Prasadam to the Gau-Sevak, who donates ₹251/-. When the Gau-Sevak inspires others to donate, each Gau-Sevak receives ₹5/- Prasadam. As the number of Gau-Sevaks increases, the first Gau-Sevak receives an increasing amount of Prasadam, up to a maximum of 20 levels or 10,000 Times.",
+    "detailsparaThree": "The Society allows withdrawal of Prasadam only through Bank Account. A 10% deduction is made for Third-Party Expenses on every withdrawal. The Society does not provide any assurance or lure to donors",
+    "detailsparaFour": "This Arrangement is Solely for connecting maximum individuals with Gau-Seva. Prasadam is not a Right of Donor, The Society reserves the right to modify or cancel this arrangement at any time without any prior intimation",
+    "detailsparaFive": "The Society has set a max. limit for Prasadam (20 levels and 10,000 times of Donation), but does not provide any Time-Limit Assurance. The Prasadam arrangement is only a illustration based on the number of Donors",
+    "detailsparasix": "Request: Please Contact the Society's Prasadam Support Center to clarify all doubts and queries before making a donation"
+  },
+  "GaushalaYojana": {
+    "titleone": "Samriddh Gaushala",
+    "descriptionImage1": "This Scheme has been created for all those Gau-Shala who are struggling with Financial Crysis, Mismanagement, and Lack of Technology. All interested Management of 'Gau-Shala' are requested to provide their complete details through our Support Center or via e-mail, Including what they expect from the Society. The Society will review the details and make a decision as early as possible",
+    "Noteone": "Note: This scheme is an initiative by SRSGS & this is not a right of any 'Gau-Shala'",
+
+    "titletwo": "Kharch Hamara Scheme",
+    "descriptionImage2": "This scheme has been created for those Gau-Palak who are struggling with financial crises due to non milking. We request such cowherds to consider their cows as family members and keep them at home, while the Society will try to provide for their fodder and other needs.",
+    "Notetwo": "Note:This scheme is an initiative by SRSGS & This is not a right of any cowherd"
+  },
+  "runningCard":{
+    "titleone":"Environmental Protection",
+    "descriptioncardone":"The Work of Environmental Protection by making different types of products from cow dung.",
+    "titletwo":"Training Programs",
+    "descriptioncardtwo":"Various types of free training programs related to Gau-Mootra and Cow-Dung along with Gau-Palan.",
+    "titlethree":"Streamlined Operation",
+    "descriptioncardthree":"The assistance of other Gau-Palak and other Gau-Shala is the result of well-organized and strong operations.",
+    "titlefour":"Conservation of Cow",
+    "descriptioncardfour":"Older, Non-Milking, Sick & Destitute Cows are protected."
+    
+    
+    
+  },
+  "OurAim": {
+    "titleone": "Our Objective",
+    "descriptionImage1": "The Society aims to build the world's largest, most modern, and well-equipped gaushala by 2030, sheltering five lakh cows. This gaushala will provide a safe, comfortable environment with all essential resources for their well-being. Our mission is to create a space where cows live happily, free from fear, and not just wait for the end of life.",
+    "titletwo": "Our Vision",
+    "descriptionImage2":"In ancient times, ‘Gopalan’ was a vital part of India's economy, and cows were symbols of prosperity in every home. Our vision is to merge tradition with modern technology, making cow conservation relevant to today’s busy generation. By promoting Gopalan as a respected profession, we aim to restore its significance in the economy and build a healthier, more sustainable society."
+  },
+  "Clickforinformation": {
+    "descriptionone": "Let Us Stand Together",
+    "descriptiontwo": "Contribute to Gau-Seva with the spirit of",
+    "descriptionothree":"Nar Seva-Narayan Seva",
+    "detailsparaOne": "by donating ₹251/-. Let us experience the power of donation and organization and be a part of the",
+    "detailsparaTwo": "Revolutionary Change Happening in the Field of Gau-Seva"
+  },
+  "Footer": {
+    "title": "Our Gau-Shala's objective is not only to Protect and Promote Cows but also to Increase the Importance of Gau-Seva in Society.",
+    "ImportantLink": "Important Links",
+    "home": "Home",
+    "secretDonation": "Anonymous Donation",
+    "prasadamArrangement": "Prasadam Vyavastha",
+    "briefIntroduction": "Introduction",
+    "helpCenter": "Help Center",
+    "faq": "FAQ",
+    "Terms&Condition": "Terms & Condition",
+    "PrivacyPolicy": "Privacy Policy",
+    "ContactUs": "Contact Us",
+    "address1": "Vrindavan City",
+    "address2": "Saharanpur 247001",
+    "address3": "U. P. India"
+  }
+}
